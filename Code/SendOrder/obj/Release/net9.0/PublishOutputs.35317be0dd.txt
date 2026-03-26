@@ -1,0 +1,7 @@
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/SendOrder
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/SendOrder.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/SendOrder.deps.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/SendOrder.runtimeconfig.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/SendOrder.pdb
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/RabbitMQ.Client.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/System.Threading.RateLimiting.dll

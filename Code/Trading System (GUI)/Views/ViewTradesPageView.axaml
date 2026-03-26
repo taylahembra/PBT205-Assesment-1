@@ -1,0 +1,27 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Trading_System.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Trading_System.Views.ViewTradesPageView"
+             x:DataType="viewModels:ViewTradesPageViewModel">
+    <Design.DataContext>
+        <viewModels:ViewTradesPageViewModel />
+    </Design.DataContext>
+    
+
+    <StackPanel Margin="20">
+        <TextBlock FontSize="20" HorizontalAlignment="Center" Padding="10">Recent stock prices ($/unit):</TextBlock>
+        <ListBox ItemsSource="{Binding ViewTradesViewModel.Trades}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="*, *" Margin="4">
+                        <TextBlock TextWrapping="Wrap" Grid.Column="0" Text="{Binding Item1}"></TextBlock>
+                        <TextBlock TextWrapping="Wrap" Grid.Column="1" HorizontalAlignment="Right" Text="{Binding Item2}"></TextBlock>
+                    </Grid>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ListBox>
+    </StackPanel>
+</UserControl>

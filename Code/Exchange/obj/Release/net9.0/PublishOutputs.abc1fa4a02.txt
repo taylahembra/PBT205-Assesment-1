@@ -1,0 +1,5 @@
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Exchange/bin/Release/net9.0/publish/Exchange
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Exchange/bin/Release/net9.0/publish/Exchange.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Exchange/bin/Release/net9.0/publish/Exchange.deps.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Exchange/bin/Release/net9.0/publish/Exchange.runtimeconfig.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Exchange/bin/Release/net9.0/publish/Exchange.pdb

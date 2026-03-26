@@ -1,0 +1,4 @@
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Trading System.pdb
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/libSkiaSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Trading System

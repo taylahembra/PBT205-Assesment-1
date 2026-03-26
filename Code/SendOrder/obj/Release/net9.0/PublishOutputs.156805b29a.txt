@@ -1,0 +1,7 @@
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/SendOrder/bin/Release/net9.0/publish/SendOrder
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/SendOrder/bin/Release/net9.0/publish/SendOrder.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/SendOrder/bin/Release/net9.0/publish/SendOrder.deps.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/SendOrder/bin/Release/net9.0/publish/SendOrder.runtimeconfig.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/SendOrder/bin/Release/net9.0/publish/SendOrder.pdb
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/SendOrder/bin/Release/net9.0/publish/RabbitMQ.Client.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/SendOrder/bin/Release/net9.0/publish/System.Threading.RateLimiting.dll

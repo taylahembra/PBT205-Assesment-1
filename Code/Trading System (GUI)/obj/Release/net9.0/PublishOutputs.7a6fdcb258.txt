@@ -1,0 +1,60 @@
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Trading System
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Trading System.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Trading System.runtimeconfig.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Trading System.pdb
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Base.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Controls.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.DesignerSupport.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Dialogs.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Markup.Xaml.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Markup.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Metal.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.MicroCom.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.OpenGL.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Vulkan.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Desktop.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Fonts.Inter.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.FreeDesktop.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Native.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Remote.Protocol.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Skia.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Themes.Fluent.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Win32.Automation.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.Win32.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Avalonia.X11.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/CommunityToolkit.Mvvm.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/HarfBuzzSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/MicroCom.Runtime.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/RabbitMQ.Client.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/SkiaSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/System.Threading.RateLimiting.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Tmds.DBus.Protocol.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-arm64/native/av_libglesv2.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-x64/native/av_libglesv2.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-x86/native/av_libglesv2.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/osx/native/libAvaloniaNative.dylib
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-arm/native/libSkiaSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/linux-x64/native/libSkiaSharp.so
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/osx/native/libSkiaSharp.dylib
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-x64/native/libSkiaSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/runtimes/win-x86/native/libSkiaSharp.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/publish/Trading System.deps.json

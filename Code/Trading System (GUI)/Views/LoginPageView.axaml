@@ -1,0 +1,29 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Trading_System.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Trading_System.Views.LoginPageView"
+             x:DataType="viewModels:LoginPageViewModel">
+    <Design.DataContext>
+        <viewModels:LoginPageViewModel />
+    </Design.DataContext>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center">Trading System</TextBlock>
+        <TextBlock Margin="10" VerticalAlignment="Center" TextAlignment="Center">Log in:</TextBlock>
+        <Grid HorizontalAlignment="Stretch" ColumnDefinitions="*, *" Margin="10">
+            <TextBlock Grid.Column="0">Username:  </TextBlock>
+            <TextBox Grid.Column="1" Text="{Binding Username}"></TextBox>
+        </Grid>
+        <Grid HorizontalAlignment="Stretch" ColumnDefinitions="*, *" Margin="10">
+            <TextBlock Grid.Column="0">Port:  </TextBlock>
+            <NumericUpDown Padding="10" Grid.Column="1" Grid.Row="2" ShowButtonSpinner="False" Increment="1" Value="{Binding Port} "></NumericUpDown>
+        </Grid>
+        <Button Margin="10" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Log in" Command="{Binding LoginPressed}"></Button>
+        <Button Margin="10" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Content="Just View Prices" Command="{Binding ViewPrices}"></Button>
+        
+        <TextBlock Text="{Binding Errormessage}" Padding="20" HorizontalAlignment="Center"></TextBlock>
+    </StackPanel>
+
+</UserControl>

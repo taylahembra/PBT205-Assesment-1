@@ -1,0 +1,2 @@
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Exchange.pdb
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Exchange.exe

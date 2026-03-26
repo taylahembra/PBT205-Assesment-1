@@ -1,0 +1,77 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Trading_System.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Trading_System.Views.DoTradesPageView"
+             x:DataType="viewModels:DoTradesPageViewModel">
+    <Design.DataContext>
+        <viewModels:DoTradesPageViewModel />
+    </Design.DataContext>
+    <StackPanel>
+        <Grid ColumnDefinitions="2*, *" >
+            <ItemsControl ItemsSource="{Binding guis}" Grid.Column="0">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate DataType="viewModels:BuySellViewModel">
+                        <StackPanel Margin="20">
+                            <TextBlock HorizontalAlignment="Center" Text="{Binding Type}" FontSize="20"></TextBlock>
+                            <TextBlock HorizontalAlignment="Center" Text="Offered trades:" FontSize="18"></TextBlock>
+            
+                            <Separator></Separator>
+            
+                            <StackPanel HorizontalAlignment="Center" >
+                                <ListBox ItemsSource="{Binding OfferedTrades}">
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate>
+                                            <Grid ColumnDefinitions="Auto, Auto, Auto, Auto, Auto">
+                                                <TextBlock VerticalAlignment="Center" TextWrapping="Wrap" Grid.Column="0" Text="{Binding Text}"></TextBlock>
+                                                <Button Grid.Column="4" Content="Trade" Command="{Binding SubmitTrade}"/>
+                                            </Grid>
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ListBox>
+                            </StackPanel>
+            
+                            <Separator></Separator>
+            
+                            <TextBlock Text="{Binding MakeTradeText}"></TextBlock>
+                            <Grid ColumnDefinitions="*, *" RowDefinitions="*, *, *, *">
+                                <TextBlock Padding="10" Grid.Column="0" Grid.Row="0">Stock ID:</TextBlock>
+                                <NumericUpDown Padding="10" Grid.Column="1" Grid.Row="0" ShowButtonSpinner="False" Increment="1" Value="{Binding Stock} "></NumericUpDown>
+                                <TextBlock Padding="10" Grid.Column="0" Grid.Row="1">Quantity:</TextBlock>
+                                <NumericUpDown Padding="10" Grid.Column="1" Grid.Row="1" ShowButtonSpinner="False" Increment="1" Value="{Binding Quantity} "></NumericUpDown>
+                                <TextBlock Padding="10" Grid.Column="0" Grid.Row="2">Price:</TextBlock>
+                                <NumericUpDown Padding="10" Grid.Column="1" Grid.Row="2" ShowButtonSpinner="False" Increment="1" Value="{Binding Price} "></NumericUpDown>
+                            </Grid>
+                            <Button Content="Submit Trade" Command="{Binding SubmitNewTrade}" />
+                        </StackPanel>
+            
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="{Binding guis.Count}"></UniformGrid>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+            <StackPanel Grid.Column="1" Margin="20">
+                <TextBlock FontSize="20" HorizontalAlignment="Center" Padding="10">Recent stock prices ($/unit):</TextBlock>
+                <ListBox ItemsSource="{Binding ViewTradesViewModel.Trades}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Grid ColumnDefinitions="*, *" Margin="4">
+                                <TextBlock TextWrapping="Wrap" Grid.Column="0" Text="{Binding Item1}"></TextBlock>
+                                <TextBlock TextWrapping="Wrap" Grid.Column="1" HorizontalAlignment="Right" Text="{Binding Item2}"></TextBlock>
+                            </Grid>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+        </Grid>
+        <Separator></Separator>
+        <!-- <Button HorizontalAlignment="Center" Content="Refresh avaliable trades" Command="{Binding Refresh}"></Button> -->
+    </StackPanel>
+    
+    
+</UserControl>

@@ -1,0 +1,8 @@
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Exchange
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Exchange.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Exchange.deps.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Exchange.runtimeconfig.json
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Exchange.pdb
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/Newtonsoft.Json.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/RabbitMQ.Client.dll
+/home/taylah/RiderProjects/Assesment1/ConsoleApp1/Trading System/bin/Release/net9.0/linux-x64/publish/System.Threading.RateLimiting.dll
